@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Appointment Booking App",
+    "tags": ["React", "Redux", "Redux Thunk", "Axios", "Tailwind", "Jest", "React Testing Library"],
+    "repository": "https://github.com/Amita-Roy/Encapture-Client",
+    "live": "https://encapture.vercel.app/",
+    "image": "https://res.cloudinary.com/dalroqfi9/image/upload/v1620574796/homepage_u11hxa.png",
+    "description": "Built with React & Redux. This project is the front end of an appointment booking app for salon services. Used 'Tailwind' for styles. This web app is built for tablet to desktop screen ( >= 768) size. I have created its backend in 'Ruby on Rails' with PostgreSQL",
+    "thumbnails": [
+      "https://res.cloudinary.com/dalroqfi9/image/upload/v1620574796/homepage_u11hxa.png",
+      "https://res.cloudinary.com/dalroqfi9/image/upload/v1620574796/services_thjocy.png",
+      "https://res.cloudinary.com/dalroqfi9/image/upload/v1620574795/service_detail_wuc7ta.png"
+      
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cocktail Recipe App",
+    "tags": ["React", "Redux", "Redux Thunk", "Axios", "Jest", "React Testing Library"],
+    "repository": "https://github.com/Amita-Roy/The-Mixing-House",
+    "live": "https://the-mixing-house.herokuapp.com/",
+    "image": "https://raw.githubusercontent.com/Amita-Roy/The-Mixing-House/development/screenshots/listPage.png",
+    "description": "Built this project for the React capstone is based on a catalogue of recipes. It is a browsable list of items that you can filter and access to the details of one item.",
+    "thumbnails": [
+      "https://raw.githubusercontent.com/Amita-Roy/The-Mixing-House/development/screenshots/listPage.png",
+      "https://raw.githubusercontent.com/Amita-Roy/The-Mixing-House/development/screenshots/recipePage.png",
+      "https://raw.githubusercontent.com/Amita-Roy/The-Mixing-House/working-branch/screenshots/CocktailsList.png"
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Weather App",
+    "tags": ["Javascript", "API", "Axios", "Webpack", "Scss"],
+    "repository": "https://github.com/Amita-Roy/Weather-App",
+    "live": "https://weather-app-git-development.royamita.vercel.app/",
+    "image": "https://raw.githubusercontent.com/Amita-Roy/Weather-App/development/screenshots/homepage.png",
+    "description": "In this project I have used the API https://openweathermap.org/ for weather data. The current weather information is displayed for any city that we enter. Along with weather information, I'm fetching the air pollution data as well and displaying the quality of air from 1 to 5, Where 1 = Good, 2 = Fair, 3 = Moderate, 4 = Poor, 5 = Very Poor.",
+    "thumbnails": [
+      "https://raw.githubusercontent.com/Amita-Roy/Weather-App/development/screenshots/homepage.png",
+      "https://raw.githubusercontent.com/Amita-Roy/Weather-App/development/screenshots/homepage1.png",
+      "https://raw.githubusercontent.com/Amita-Roy/Weather-App/development/screenshots/homepage2.png"
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Lifestyle Article App",
+    "tags": ["Ruby", "Ruby on Rails", "Scss", "HTML/ERB"],
+    "repository": "https://github.com/Amita-Roy/ROR-Capstone-Her_Style/tree/development",
+    "live": "https://murmuring-dawn-03579.herokuapp.com/",
+    "image": "https://raw.githubusercontent.com/Amita-Roy/ROR-Capstone-Her_Style/development/app/assets/images/IMac.jpg",
+    "description": "This project was developed with Ruby on Rails, which is based on lifestyle articles. I have followed the given design and decided to develop this article app on women's lifestyle. I am planning to work on it in the future to add more features and I'll add a personal logo as well for this web app. For testing, I have used RSpec and Capybara.",
+    "thumbnails": [
+      "https://raw.githubusercontent.com/Amita-Roy/ROR-Capstone-Her_Style/development/app/assets/images/IMac.jpg",
+      "https://raw.githubusercontent.com/Amita-Roy/ROR-Capstone-Her_Style/development/app/assets/images/tab.jpg",
+      "https://raw.githubusercontent.com/Amita-Roy/ROR-Capstone-Her_Style/development/app/assets/images/laptop.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "CSS Linter",
+    "tags": ["Ruby", "CSS"],
+    "repository": "https://github.com/Amita-Roy/Ruby_Capstone_CSS_Linter",
+    "live": "https://github.com/Amita-Roy/Ruby_Capstone_CSS_Linter",
+    "image": "https://raw.githubusercontent.com/Amita-Roy/Ruby_Capstone_CSS_Linter/master/.github/valid_units.png",
+    "description": "This is a capstone project for Ruby. I have developed CSS linter with 4 different linting rules. For testing I have used RSpec and for test coverage I have used simplecov gem. I have used crass gem for parsing css",
+    "thumbnails": [
+      "https://raw.githubusercontent.com/Amita-Roy/Ruby_Capstone_CSS_Linter/master/.github/valid_units.png",
+      "https://raw.githubusercontent.com/Amita-Roy/Ruby_Capstone_CSS_Linter/master/.github/length_zero_no_unit.png",
+      "https://raw.githubusercontent.com/Amita-Roy/Ruby_Capstone_CSS_Linter/master/.github/duplicate_selectors.png"
+    ]
+  }
+]
